@@ -1,6 +1,6 @@
-# Sıfırdan Yazılım Ders Arşivine Hoşgeldiniz!
+# Sıfırdan Yazılıma Ders Arşivine Hoşgeldiniz!
 
-Bu repository Kabataş Erkek Lisesi Yazılım Kulübü'nün yaptığı **Sıfırdan Yazılım Dersleri'nin** özetlerini içermektedir. İyi Kodlamalar! 
+Bu repository Kabataş Erkek Lisesi Yazılım Kulübü'nün yaptığı **Sıfırdan Yazılıma Dersleri'nin** özetlerini içermektedir. İyi Kodlamalar! 
 
 
 # Haftalık Dersler Ve Konuları
