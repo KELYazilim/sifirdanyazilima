@@ -22,9 +22,11 @@ Bilgisayarlar kullanıcıdan gelen veya hesaplamaların sonucu olan verileri kay
 Pseudo Kod (Sözde Kod) herhangi bir yazılım dili kullanmadan yazılacak kodun basamak basamak sözel bir şekilde ifade edilmesine denir.
 
 Örnek:
-- Başla  
-- Birinci sayıyı oku (sayi1)  
-- İkinci sayıyı oku (sayi2)  
-- toplam = sayi1 + sayi2  
-- Ekrana toplam'ı yazdır
-- Bitir
+```
+1. Başla  
+2. Birinci sayıyı oku (sayi1)  
+3. İkinci sayıyı oku (sayi2)  
+4. toplam = sayi1 + sayi2  
+5. Ekrana toplam'ı yazdır
+6. Bitir
+```
