@@ -10,14 +10,14 @@ Haftalık derslerin özetlerine ulaşmak için o haftanın klasörünün içine 
 
 - Kod Nedir?
 - Yazılımcı/Coder Kime Denir?
-- Bilgisayarlarda Sıfır Ve Birlerin Önemi
+- Bilgisayarlarda Sıfır ve Birlerin Önemi
 - Yazılım Dili Nedir?
 - Yazılım Dillerinin Sınıflandırılması
 
 ## 2. Hafta
 
 - Bilgisayarda Depolama Nasıl Çalışır?
-- Primary Ve Secondary Depolama Birimleri
+- Primary ve Secondary Depolama Birimleri
 - Değişken Nedir?
 - Pseudo Kod Nedir?
 
